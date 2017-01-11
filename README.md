@@ -9,5 +9,6 @@ https://www.christopheducamp.com/2013/12/16/github-pour-nuls-partie-2/
 $ git add README.md
 $ git commit -m "second commit"
 $ git remote add origin https://github.com/BOBLEBAT/WildProjet-FD.git
-$ git git remote -v
-$ git push
+$ git remote -v
+$ git push -f origin
+
